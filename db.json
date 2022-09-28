@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "rakesh",
+      "lastName": "ramdayal",
+      "email": "ramdayal@gmail.com",
+      "mobile": "11111112333",
+      "salary": "5555"
+    },
+    {
+      "id": 2,
+      "firstName": "Rak",
+      "lastName": "sonkar",
+      "email": "rrrrr@gmail.com",
+      "mobile": "99999999",
+      "salary": "44444"
+    },
+    {
+      "id": 3,
+      "firstName": "ramu",
+      "lastName": "kkkk",
+      "email": "ghfkjgljg",
+      "mobile": "708986",
+      "salary": "75788"
+    },
+    {
+      "id": 4,
+      "firstName": "n,nv,b",
+      "lastName": "bjgl",
+      "email": "xgfs4525375",
+      "mobile": "7587596",
+      "salary": "11111111111111111"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
